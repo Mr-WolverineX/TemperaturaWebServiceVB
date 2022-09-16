@@ -1,0 +1,11 @@
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\bin\TemperatureWebServiceVB.dll.config
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\bin\TemperatureWebServiceVB.dll
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\bin\TemperatureWebServiceVB.pdb
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\bin\TemperatureWebServiceVB.xml
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.vbprojAssemblyReference.cache
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.Resources.resources
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.vbproj.GenerateResource.cache
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.vbproj.CoreCompileInputs.cache
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.dll
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.xml
+C:\Users\sonia\source\repos\SolucionTemperatureWebServiceVB\TemperatureWebServiceVB\obj\Debug\TemperatureWebServiceVB.pdb
